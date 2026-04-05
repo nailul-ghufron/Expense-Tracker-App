@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LuminaFinance</string>
+    <string name="title_activity_main">LuminaFinance</string>
+    <string name="package_name">io.lumina.finance</string>
+    <string name="custom_url_scheme">io.lumina.finance</string>
+</resources>
